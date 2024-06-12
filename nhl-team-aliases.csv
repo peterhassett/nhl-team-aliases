@@ -1,32 +1,33 @@
-Corsica,NatStatTrick,hockeyref,Capfriendly,Elliotte Friedman (ELF)
-ANA,Anaheim Ducks,ANA,ducks,ANA
-ARI,Arizona Coyotes,ARI,coyotes,ARIZ
-BOS,Boston Bruins,BOS,bruins,BOS
-BUF,Buffalo Sabres,BUF,sabres,BUF
-CAR,Carolina Hurricanes,CAR,hurricanes,CAR
-CBJ,Calgary Flames,CBJ,flames,CLB
-CGY,Chicago Blackhawks,CGY,blackhawks,CAL
-CHI,Columbus Blue Jackets,CHI,bluejackets,CHI
-COL,Colorado Avalanche,COL,avalance,COL
-DAL,Dallas Stars,DAL,stars,DAL
-DET,Detroit Red Wings,DET,redwings,DET
-EDM,Edmonton Oilers,EDM,oilers,EDM
-FLA,Florida Panthers,FLA,panthers,FLA
-L.A,Los Angeles Kings,LAK,kings,LAK
-MIN,Minnesota Wild,MIN,wild,MINN
-MTL,Montreal Canadiens,MTL,canadiens,MON
-N.J,New Jersey Devils,NJD,devils,NJD
-NSH,Nashville Predators,NSH,predators,NSH
-NYI,New York Islanders,NYI,islanders,NYI
-NYR,New York Rangers,NYR,rangers,NYR
-OTT,Ottawa Senators,OTT,senators,OTT
-PHI,Philadelphia Flyers,PHI,flyers,PHI
-PIT,Pittsburgh Penguins,PIT,penguins,PITT
-S.J,San Jose Sharks,SJS,sharks,SJS
-STL,St Louis Blues,STL,bluejackets,STL
-T.B,Tampa Bay Lightning,TBL,lightning,TBL
-TOR,Toronto Maple Leafs,TOR,leafs,TOR
-VAN,Vancouver Canucks,VAN,canucks,VCR
-VGK,Vegas Golden Knights,VGK,goldenknights,VEG
-WPG,Winnipeg Jets,WPG,jets,WIN
-WSH,Washington Capitals,WSH,capitals,WASH
+Tm,Tm Stat,Tm hockeyref,Tm ELF,Team Place Name,Team Name,Team Full Name,Emoji,Color Background,Color Contrast,Tag Slug
+ANA,ANA,ANA,ANA,Anaheim,Ducks,Anaheim Ducks,🦆,#F47A38,#B9975B,anaheim-ducks
+ARI,ARI,ARI,ARIZ,Arizona,Coyotes,Arizona Coyotes,🌵,#8C2633,#E2D6B5,arizona-coyotes
+BOS,BOS,BOS,BOS,Boston,Bruins,Boston Bruins,🐻,#000000,#FFB81C,boston-bruins
+BUF,BUF,BUF,BUF,Buffalo,Sabres,Buffalo Sabres,⚔,#003087,#FFB81C,buffalo-sabres
+CGY,CGY,CGY,CAL,Calgary,Flames,Calgary Flames,🔥,#D2001C,#FAAF19,calgary-flames
+CAR,CAR,CAR,CAR,Carolina,Hurricanes,Carolina Hurricanes,🌀,#CE1126,#FFFFFF,carolina-hurricanes
+CHI,CHI,CHI,CHIC,Chicago,Blackhawks,Chicago Blackhawks,🚁,#CF0A2C,#FF671B,chicago-blackhawks
+COL,COL,COL,COL,Colorado,Avalanche,Colorado Avalanche,❄,#6F263D,#236192,colorado-avalanche
+CBJ,CBJ,CBJ,CLB,Columbus,Blue Jackets,Columbus Blue Jackets,💥,#002654,#CE1126,columbus-blue-jackets
+DAL,DAL,DAL,DAL,Dallas,Stars,Dallas Stars,⭐,#006847,#8F8F8C,dallas-stars
+DET,DET,DET,DET,Detroit,Red Wings,Detroit Red Wings,⭕,#CE1126,#FFFFFF,detroit-red-wings
+EDM,EDM,EDM,EDM,Edmonton,Oilers,Edmonton Oilers,🛢,#041E42,#FF4C00,edmonton-stars
+FLA,FLA,FLA,FLA,Florida,Panthers,Florida Panthers,🐱,#C8102E,#C8102E,florida-panthers
+LAK,L.A,LAK,LAK,Los Angeles,Kings,Los Angeles Kings,👑,#A2AAAD,,los-angeles-kings
+MIN,MIN,MIN,MINN,Minnesota,Wild,Minnesota Wild,🐅,#154734,#154734,minnesota-wild
+MTL,MTL,MTL,MON,Montreal,Canadiens,Montreal Canadiens,🥐,#AF1E2D,#192168,montreal-canadiens
+NSH,NSH,NSH,NSH,Nashville,Predators,Nashville Predators,🐯,#FFB81C,,nashville-predators
+NJD,N.J,NJD,NJD,New Jersey,Devils,New Jersey Devils,😈,#CE1126,#FFFFFF,new-jersey-devils
+NYI,NYI,NYI,NYI,NY Islanders,Islanders,New York Islanders,🎣,#00539B,#F47D30,new-york-islanders
+NYR,NYR,NYR,NYR,NY Rangers,Rangers,New York Rangers,🏙️,#0038A8,#CE1126,new-york-rangers
+OTT,OTT,OTT,OTT,Ottawa,Senators,Ottawa Senators,👴,#000000,#DA1A32,ottawa-senators
+PHI,PHI,PHI,PHI,Philadelphia,Flyers,Philadelphia Flyers,🐤,#F74902,White,philadelphia-flyers
+PIT,PIT,PIT,PITT,Pittsburgh,Penguins,Pittsburgh Penguins,🐧,#FCB514,Black,pittsburgh-pengins
+SJS,S.J,SJS,SJS,San Jose,Sharks,San Jose Sharks,🦈,#006D75,#EA7200,san-jose-sharks
+SEA,SEA,SEA,SEA,Seattle,Kraken,Seattle Kraken,🦑,#001628,#99D9D9,seattle-kraken
+STL,STL,STL,STL,St. Louis,Blues,St. Louis Blues,🎵,#002F87,#FCB514,st-louis-blues
+TBL,TBL,TBL,TBL,Tampa Bay,Lightning,Tampa Bay Lightning,⚡️,#002868,#FFFFFF,tampa-bay-lightning
+TOR,TOR,TOR,TOR,Toronto,Maple Leafs,Toronto Maple Leafs,🍁,#00205B,#FFFFFF,toronto-maple-leafs
+VAN,VAN,VAN,VCR,Vancouver,Canucks,Vancouver Canucks,🐋,#00205B,#00843D,vancouver-canucks
+VGK,VGK,VEG,VGK,Vegas,Golden Knights,Vegas Golden Knights,♞,#333F42,#B4975A,vegas-golden-knightsa
+WSH,WSH,WSH,WSH,Washington,Capitals,Washington Capitals,🦅,#C8102E,#041E42,washington-capitals
+WPG,WPG,WPG,WPG,Winnipeg,Jets,Winnipeg Jets,✈,#041E42,#004C97,winnipeg-jets
